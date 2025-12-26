@@ -1,0 +1,186 @@
+[
+  {
+    "id": "m1",
+    "name": "Grilled Chicken Sandwich",
+    "price": "550.99",
+    "category": "non-veg",
+    "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Margherita Pizza",
+    "price": "299.99",
+    "category": "veg",
+    "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Seafood Paella",
+    "price": "899.99",
+    "category": "non-veg",
+    "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and chorizo.",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Spaghetti Carbonara",
+    "price": "399.99",
+    "category": "non-veg",
+    "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Veggie Burger",
+    "price": "249.99",
+    "category": "veg",
+    "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Mac & Cheese",
+    "price": "189.99",
+    "category": "veg",
+    "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Apollo Fish",
+    "price": "699.99",
+    "category": "non-veg",
+    "description": "Succulent tilapia fish cooked to your preference, served with crispy golden fries and herb butter.",
+    "image": "images/tilapia-fish.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Sushi Roll Platter",
+    "price": "515.99",
+    "category": "non-veg",
+    "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Chicken Curry",
+    "price": "349.99",
+    "category": "non-veg",
+    "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Vegan Buddha Bowl",
+    "price": "399.99",
+    "category": "veg",
+    "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Caesar Salad",
+    "price": "299.99",
+    "category": "veg",
+    "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Pancake Stack",
+    "price": "300.99",
+    "category": "dessert",
+    "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Miso Ramen",
+    "price": "549.99",
+    "category": "non-veg",
+    "description": "A warming bowl of ramen with miso broth, tender pork, soft-boiled egg, and green onions.",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Tandori Tacos",
+    "price": "199.99",
+    "category": "veg",
+    "description": "Three soft tortillas filled with seasoned Tandori paneer, fresh salsa, cheese, and sour cream.",
+    "image": "images/tandori-tacos.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Chocolate Brownie",
+    "price": "350.99",
+    "category": "dessert",
+    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Lobster Bisque",
+    "price": "1499.99",
+    "category": "non-veg",
+    "description": "A creamy soup made from lobster stock, aromatic vegetables, and a touch of brandy.",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Mushroom Risotto",
+    "price": "295.99",
+    "category": "veg",
+    "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Eggplant Parmesan",
+    "price": "249.99",
+    "category": "veg",
+    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Lemon Cheesecake",
+    "price": "300.99",
+    "category": "dessert",
+    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Falafel Wrap",
+    "price": "400.99",
+    "category": "veg",
+    "description": "Crispy falafels wrapped in a warm pita with lettuce, tomatoes, and a tahini sauce.",
+    "image": "images/falafel-wrap.jpg"
+  },
+   {
+    "id": "m21",
+    "name": "Mojito",
+    "price": "200.99",
+    "category": "beverage",
+    "description": "Experience a burst of freshness with our Classic Mojito, a perfect blend of zesty lime, cooling mint. Light, crisp, and oh-so-refreshing.",
+    "image": "images/Mojito.png"
+  },
+   {
+    "id": "m22",
+    "name": "Lime Soda",
+    "price": "120.99",
+    "category": "beverage",
+    "description": "Simple, and refreshing Lime Soda is perfect blend of tangy lemons, right touch of sweetness, and chilled to perfection.",
+    "image": "images/Lime-soda.png"
+  },
+  {
+    "id": "m23",
+    "name": "Mango Lassi",
+    "price": "250.99",
+    "category": "beverage",
+    "description": "A yogurt based creamy beverage with natural alphonso mango pulp.",
+    "image": "images/Mango-Lassi.png"
+  }
+]
