@@ -11,7 +11,7 @@ export default function Meals() {
     data: loadedMeals,
     isLoading,
     error,
-  } = useFetch("http://localhost:3000/meals", requestConfig, []);
+  } = useFetch(`${import.meta.env.VITE_BACKEND_URL}/meals`, requestConfig, []);
 
   if (isLoading) {
     return <p className="center">Fetching data...</p>;
