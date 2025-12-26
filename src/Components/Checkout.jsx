@@ -16,7 +16,7 @@ const fetchConfig = {
 };
 export default function Checkout() {
   const { data, isLoading , error, sendRequest ,clearData} = useFetch(
-    "http://localhost:3000/orders",
+    `${import.meta.env.VITE_BACKEND_URL}/orders`,
     fetchConfig
   );
   
