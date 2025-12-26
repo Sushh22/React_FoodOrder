@@ -25,7 +25,7 @@ export default function Meals() {
       : loadedMeals.filter((meal) => meal.category === selectedCategory);
   return (
     <>
-      {/* CATEGORY BUTTONS */}
+      {/* category buttons */}
       <div className="meal-categories">
         <button
           className={selectedCategory === "all" ? "active" : ""}
