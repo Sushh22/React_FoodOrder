@@ -1,9 +1,15 @@
 import fs from 'node:fs/promises';
-
+import cors from 'cors';
 import bodyParser from 'body-parser';
 import express from 'express';
 
 const app = express();
+
+app.use(cors({
+  origin: '*',
+  methods: ['GET', 'POST', 'OPTIONS'],
+  allowedHeaders: ['Content-Type']
+}));
 
 app.use(bodyParser.json());
 app.use(express.static('public'));
